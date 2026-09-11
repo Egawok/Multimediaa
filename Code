@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gambartgs</title>
+</head>
+<body bgcolor="skyblue">
+    <H1><font face="arial"><CEnter>JELAJAH BUDAYA JAWA TIMUR</CEnter></font></H1>
+    <h4><font face="arial"><center>Temukan Berbagai Budaya yang Ada di Jawa Timur</center></font></h4>
+    <table border="0" align="center" cellspacing="0" bgcolor="white">
+        <tr bgcolor="cyan">
+            <th><font face="arial"><center>Beranda</center></font></th>
+            <th><font face="arial"><center>Budaya</center></font></th>
+            <th><font face="arial"><center>Galeri</center></font></th>
+            <th><hr size="5" width="100%"></th>
+        </tr>
+        <tr>
+            <td colspan="3"><font face="arial"><center>🏡Beranda</center></font>
+            </td>
+            
+        </tr>
+    
+        <tr>
+            <td colspan="3"><font face="arial"><center>Selamat datang di website Jelajah Wisata Indonesia. Halaman ini didedikasikan untuk mengangkat pesona kebudayaan dan tradisi luhur yang tumbuh subur di wilayah Jawa Timur. Sebagai tanah yang kaya akan nilai sejarah dan warisan leluhur, Jawa Timur menyimpan keunikan budaya yang khas dan tetap lestari hingga kini. Mari bersama-sama menjelajahi, mengenali, dan menjaga kelestarian mahakarya budaya nusantara.</center></font><hr size="5" width="100%"></td>
+        </tr>
+        <hr size="5" width="100%">
+
+        <tr>
+             <td colspan="3"><font face="arial"><center>🎭Budaya</center></font>
+            <p><font face="arial"><center>Berikut adalah budaya yang menarik di Jawa Timur</center></font></p></td>
+        </tr>
+        <tr>
+            <td><center><IMg src="/images.jpeg" width="300px" height="200px"></center><h4><font face="arial"><center>Reog Ponorogo</center></font></h4><p><font face="arial"><center>Reog Ponorogo adalah kesenian rakyat tradisional khas Ponorogo, Jawa Timur, yang memadukan tarian topeng megah, keterampilan akrobatik ekstrem, dan unsur magis-mistis dalam satu kesatuan pertunjukan yang dinamis. </center></font></p></td>
+            <td><center><IMg src="/images (1).jpeg" width="300px" height="200px"></center><h4><font face="arial"><center>Wayang Kulit</center></font></h4><p><font face="arial"><center>Wayang kulit adalah seni pertunjukan tradisional Indonesia, khususnya berkembang di Pulau Jawa dan Bali, yang menggunakan boneka pipih terbuat dari pahatan kulit binatang (seperti sapi atau kerbau) untuk memproyeksikan bayangan pada layar kain putih (kelir).</center></font></p></td>
+            <td><center><IMg src="/download.jpeg" width="300px" height="200px"></center><h4><font face="arial"><center>Tari Remo</center></font></h4><p><font face="arial"><center>Tari Remo adalah tarian tradisional khas Jawa Timur yang awalnya diciptakan sebagai tarian pembuka dalam pertunjukan ludruk, namun kini lebih sering dipentaskan sebagai tarian selamat datang untuk menyambut tamu agung. </center></font></p></td>
+            
+        </tr>
+        <tr>
+            <td align="center" colspan="3">__<hr size="5" width="100%"></td>
+        </tr>
+
+        <tr>
+            <td colspan="3"><font face="arial"><center>🪘Musik Tradisional</center></font><p><font face="arial"><center>Nikmati musik tradisional Karawitan sambil membaca informasi budaya</center></font></p>
+            <p align="center"><audio controls>
+         <source src="/Lancaran Manyar Sewu [ Bocah Sholeh ] Seni Karawitan Citra Laras - PATRIKAL (128k).mp3" type="audio/mp3"/>
+    </audio></p><hr size="5" width="100%"></td>
+        </tr>
+        <tr>
+            <td colspan="3"><font face="arial"><center>🎬Video Budaya</center></font><p><font face="arial"><center>Nikmati video budaya sambil membaca informasi budaya</center></font></p>
+            <p align="center"><video width="500px" height="400px" controls>
+        <source src="/perang-wayang-gedhe-ki-sukresno-agung-nugroho-sabet-anoman-gedhe-vs-buta-gedhe-wayang-kulit-san-ytmp4.savetube.vip.mp4" type="video/mp4"/>
+    </video></p><hr size="5" width="100%"></td>
+        </tr>
+        <tr>
+            <td colspan="3"><font face="arial"><center>Contact Person By Rafa Ega Fendi Syahputra 28 XRPL-3</center></font></td>
+        </tr>
+
+    </table>
+    
+</body>
+</html>
